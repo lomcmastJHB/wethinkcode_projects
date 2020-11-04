@@ -1,1 +1,1 @@
-# wethinkcode_projects
+# WethinkCode_projects
